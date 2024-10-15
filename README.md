@@ -29,3 +29,4 @@ Aplikasi ini menggunakan API dari [NewsAPI](https://newsapi.org/). Anda harus me
 ### Contoh Request API
 
 - Mendapatkan berita teknologi terbaru:
+GET https://newsapi.org/v2/top-headlines?category=technology&apiKey=your_api_key
